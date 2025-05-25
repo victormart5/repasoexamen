@@ -9,9 +9,6 @@ public class Main {
 
     public static double calcularPrecioTotal(double[] precios) {
         double suma = 0;
-        for (double precio : precios) {
-            suma += precio;
-        }
         return suma;
     }
 }
