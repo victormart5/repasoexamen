@@ -9,6 +9,7 @@ public class Main {
 
     public static double calcularPrecioTotal(double[] precios) {
         double suma = 0;
+        // error no se qué
         return suma;
     }
 }
